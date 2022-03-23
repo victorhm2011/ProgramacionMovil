@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DayOneApp</string>
+    <string name="description_label">Cambio de Colores</string>
+    <string name="btn_red_label">Rojo</string>
+    <string name="btn_white_label">Blanco</string>
+    <string name="title">Mi aplicación de negocios</string>
+    <string name="btn_servicios">Servicios</string>
+    <string name="btn_portafio">Portafolio</string>
+    <string name="btn_acerca">Acerca  de</string>
+    <string name="btn_acercade">ACERCA DE</string>
+    <string name="btn_contacto">CONTACTO</string>
+    <string name="btn_redes">REDES SOCIALES</string>
+    <string name="btn_message">Boton Seleccionado:</string>
+</resources>
