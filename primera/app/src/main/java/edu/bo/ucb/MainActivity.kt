@@ -52,6 +52,9 @@ class MainActivity : AppCompatActivity() {
             toast(getString(R.string.btn_contacto))
 
         }
+        redesBtn.setOnClickListener {
+            toast(getString(R.string.btn_contacto))
+        }
     }
 
 
