@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DayOneApp">
         <activity
-            android:name=".ServiciosActivity"
+            android:name=".Borrar"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
@@ -20,6 +20,11 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name=".ServiciosActivity" android:label="@string/btn_services">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
         </activity>
     </application>
 
