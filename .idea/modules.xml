@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/guias.iml" filepath="$PROJECT_DIR$/.idea/guias.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/quinta.iml" filepath="$PROJECT_DIR$/.idea/modules/quinta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/quinta.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/quinta.app.iml" />
     </modules>
   </component>
 </project>
