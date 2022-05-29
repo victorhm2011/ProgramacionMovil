@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        session.user = "CALYR.SOFTWARE@GMAIL.COM"
+        session.user = Usuario("Roberto Carlos", "Callisaya Mamani", 32)
     }
 
     fun openSecondActivity(view: View) {
